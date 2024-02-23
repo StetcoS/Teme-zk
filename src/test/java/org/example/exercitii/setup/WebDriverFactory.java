@@ -1,4 +1,4 @@
-package org.example.exerciti.setup;
+package org.example.exercitii.setup;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

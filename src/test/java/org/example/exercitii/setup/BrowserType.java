@@ -1,4 +1,4 @@
-package org.example.exerciti.setup;
+package org.example.exercitii.setup;
 
 public enum BrowserType {
     CHROME("Google Chrome"), // fiecare enumerare actioneaza ca un initializare a clasei cu ajutorul constructorului

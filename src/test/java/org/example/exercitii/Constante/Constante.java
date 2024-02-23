@@ -1,4 +1,4 @@
-package org.example.exerciti.Constante;
+package org.example.exercitii.Constante;
 
 public class Constante {
     public static final int DURATION = 10;

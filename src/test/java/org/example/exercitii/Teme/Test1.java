@@ -1,4 +1,4 @@
-package org.example.exerciti;
+package org.example.exercitii.Teme;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -13,7 +13,6 @@ public class Test1 extends bassetest {
 
         WebElement loginButton = driver.findElement(By.cssSelector("#sidebar-wrapper > ul > li:nth-child(4) > a"));
         loginButton.click();
-
         WebElement username = driver.findElement(By.id("txt-username"));
         username.sendKeys("John Doe");
 

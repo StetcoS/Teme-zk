@@ -1,6 +1,6 @@
-package org.example.exerciti;
+package org.example.exercitii.Teme;
 
-import org.example.exerciti.setup.BrowserType;
+import org.example.exercitii.setup.BrowserType;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
@@ -8,9 +8,9 @@ import org.testng.annotations.BeforeMethod;
 
 import java.time.Duration;
 
-import static org.example.exerciti.Constante.Constante.DURATION;
-import static org.example.exerciti.setup.BrowserType.CHROME;
-import static org.example.exerciti.setup.WebDriverFactory.createWebDriver;
+import static org.example.exercitii.Constante.Constante.DURATION;
+import static org.example.exercitii.setup.BrowserType.CHROME;
+import static org.example.exercitii.setup.WebDriverFactory.createWebDriver;
 
 public class bassetest {
     public static WebDriver driver;
